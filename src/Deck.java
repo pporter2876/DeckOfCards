@@ -8,7 +8,7 @@ import java.util.Collections;
  */
 public class Deck {
 
-	public ArrayList<Card> cards;
+	private ArrayList<Card> cards;
 	
 	/**  Constructor.  Uses the refresh method in order to create a new full 
 	 *    deck.   
